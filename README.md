@@ -1,5 +1,7 @@
 FreskoExpress: Plataforma de Gestión Logística para Alimentos Perecederos
+
 📋 Descripción del Proyecto
+
 FreskoExpress es una solución integral de software diseñada para digitalizar y optimizar la cadena de suministro de una distribuidora de alimentos (frutas, verduras, lácteos y cárnicos). El sistema reemplaza procesos manuales y hojas de cálculo por una arquitectura robusta capaz de monitorear la cadena de frío en tiempo real y gestionar la logística en tres ciudades principales.
 Este proyecto se desarrolla bajo el marco de la asignatura Arquitectura de Software de la Fundación Universitaria Konrad Lorenz.
 🚀 Objetivos Principales
